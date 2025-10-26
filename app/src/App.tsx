@@ -476,7 +476,7 @@ function App() {
       <div className="fixed bottom-0 left-0 right-0 mt-10 p-3 border-t border-gray-200 bg-white">
         <p className="text-xs text-gray-500 text-center">
           <a
-            href="https://github.com/pushchain/push-chain-examples"
+            href="https://github.com/rizwanmoulvi/push-port"
             target="_blank"
             rel="noopener noreferrer"
             className="text-purple-600 hover:text-purple-800"
