@@ -1,0 +1,5 @@
+# Ignore node_modules anywhere in the repo
+/app/node_modules/
+
+# Ignore .env in the app folder
+/app/.env
